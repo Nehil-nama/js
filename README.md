@@ -1,2 +1,2 @@
 # js
-code repo for javadscript
+code repo for javascript
